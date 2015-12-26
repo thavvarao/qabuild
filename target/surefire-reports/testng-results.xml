@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="20" started-at="2015-12-26T15:51:05Z" finished-at="2015-12-26T15:51:05Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20" started-at="2015-12-26T15:51:05Z" finished-at="2015-12-26T15:51:05Z">
+      <class name="com.automation.framework.TestTestNG">
+        <test-method status="PASS" signature="bc()[pri:0, instance:com.automation.framework.TestTestNG@54a097cc]" name="bc" is-config="true" duration-ms="0" started-at="2015-12-26T21:21:05Z" finished-at="2015-12-26T21:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="t1()[pri:0, instance:com.automation.framework.TestTestNG@54a097cc]" name="t1" duration-ms="1" started-at="2015-12-26T21:21:05Z" finished-at="2015-12-26T21:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method status="PASS" signature="t2()[pri:0, instance:com.automation.framework.TestTestNG@54a097cc]" name="t2" duration-ms="0" started-at="2015-12-26T21:21:05Z" finished-at="2015-12-26T21:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+      </class> <!-- com.automation.framework.TestTestNG -->
+      <class name="com.automation.framework.BaseTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automation.framework.BaseTest@366e2eef]" name="setup" is-config="true" duration-ms="4630" started-at="2015-12-26T21:21:00Z" finished-at="2015-12-26T21:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="bs()[pri:0, instance:com.automation.framework.TestTestNG@54a097cc]" name="bs" is-config="true" duration-ms="3" started-at="2015-12-26T21:21:05Z" finished-at="2015-12-26T21:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.automation.framework.BaseTest@366e2eef]" name="init" is-config="true" duration-ms="1" started-at="2015-12-26T21:21:05Z" finished-at="2015-12-26T21:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="bt()[pri:0, instance:com.automation.framework.TestTestNG@54a097cc]" name="bt" is-config="true" duration-ms="1" started-at="2015-12-26T21:21:05Z" finished-at="2015-12-26T21:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.framework.BaseTest@366e2eef]" name="tearDown" is-config="true" duration-ms="0" started-at="2015-12-26T21:21:05Z" finished-at="2015-12-26T21:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.framework.BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
